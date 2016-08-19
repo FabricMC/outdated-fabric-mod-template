@@ -1,0 +1,6 @@
+{
+	"id": "fabric-mod-template",
+	"group": "net.fabricmc",
+	"version": "1.0.0",
+	"modClass": "net.fabricmc.template.FabricTemplate"
+}
